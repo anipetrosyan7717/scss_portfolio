@@ -4,7 +4,9 @@
   "description": "Portfolio for scss",
   "main": "index.js",
   "scripts": {
-    "test": "npm run test"
+    "start": "start src/index.html && npm run css:watch",
+    "css:watch": "node-sass src -o src && node-sass src -wo src",
+    "build:sass": "node-sass -r --output-style compressed src -o src"
   },
   "repository": {
     "type": "git",
