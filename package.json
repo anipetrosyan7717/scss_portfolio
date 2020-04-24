@@ -1,0 +1,24 @@
+{
+  "name": "scss_project",
+  "version": "1.0.0",
+  "description": "Portfolio for scss",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anipetrosyan7717/scss_portfolio.git"
+  },
+  "keywords": [
+    "scss",
+    "portfolio",
+    "scss"
+  ],
+  "author": "Ani Petrosyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anipetrosyan7717/scss_portfolio/issues"
+  },
+  "homepage": "https://github.com/anipetrosyan7717/scss_portfolio#readme"
+}
