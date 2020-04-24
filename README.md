@@ -1,0 +1,1 @@
+Portfolio project to demonstrate the strength of SCSS preprocessor.
